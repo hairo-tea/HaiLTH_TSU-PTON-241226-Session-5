@@ -1,0 +1,20 @@
+li {
+    display: block;
+    border: 20px;
+    background-color: lightgray;
+    padding: 2px;
+    margin: 10px;
+
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+    padding: 10px 10px;
+
+}
+
+li:hover {
+    background-color: gray;
+}
