@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(202, 200, 200);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.cover {
+    position: relative;
+    background-color: white;
+}
+
+.cover img {
+    display: block;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.view {
+    position: absolute;
+    top: 500px;
+    padding: 10px 20px;
+    display: inline;
+}
+
+.views {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.view .icon img {
+    width: 10%;
+}
+
+.content-title {
+    display: block;
+    padding: 20px;
+    margin: 0px;
+    background-color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.content-title p {
+    margin: 0px;
+
+}
