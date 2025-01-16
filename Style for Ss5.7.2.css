@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    display: block;
+    width: 100%;
+    font-size: 24px;
+    background-image: url("./hinh-anh-car-repairing.jpg");
+}
+
+.automotive {
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    width: 160px;
+    padding: 6px;
+    margin-top: 100px;
+    position: fixed;
+}
+
+h1 {
+    padding-top: 500px;
+    padding-left: 40px;
+    color: white;
+    position: fixed;
+}
+
+.all-platform {
+    padding-top: 640px;
+    padding-left: 40px;
+    color: white;
+    position: fixed;
+}
